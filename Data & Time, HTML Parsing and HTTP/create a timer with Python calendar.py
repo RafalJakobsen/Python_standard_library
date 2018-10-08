@@ -10,4 +10,5 @@ if run == "yes":
         print(">", seconds)
         time.sleep(1)
         seconds += 1
+    print(">", seconds)
 
