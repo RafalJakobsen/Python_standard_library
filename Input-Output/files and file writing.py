@@ -20,3 +20,4 @@ myFile = open("score.txt", "r")
 print("Reading..." + myFile.read(10))
 myFile.seek(0)
 print("Reading again" + myFile.read(10))
+
